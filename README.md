@@ -1,9 +1,3 @@
-# U-Net_Based_Medical_Image_Segmentation
- A Python-based project using U-Net architecture to perform medical image segmentation, specifically for detecting and segmenting abnormalities in medical images with high accuracy.
-To make the GitHub description more structured and visually appealing using markdown, you can format it like this:
-
-
-
 # U-Net Based Medical Image Segmentation
 
 This project implements the **U-Net architecture**, a widely used deep learning model for biomedical image segmentation. The primary goal is to segment medical images and detect abnormalities with high precision and recall. The U-Net model is known for its effectiveness in image segmentation tasks due to its symmetric architecture and ability to capture both high- and low-level features.
